@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Alt text]([https://lien-vers-ton-gif.gif](https://www.omgubuntu.co.uk/2024/12/ghostty-terminal-linux-open-source-release))
+![Alt text](Ghostty.webp)
